@@ -1,0 +1,17 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: 100vh;
+}
+
+.accueil {
+  background-image: url("../image/81pgYscxh-L.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
